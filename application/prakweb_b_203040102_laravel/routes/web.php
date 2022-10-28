@@ -23,7 +23,8 @@ use App\Models\User;
 Route::get('/', function () {
     return view('home', [
         "title" => "home",
-        "active" => "home"
+        "active" => "home",
+        "image" => "kirito.png"
     ]);
 });
 
