@@ -1,5 +1,7 @@
 body {
   font-size: .875rem;
+  background-image: url(../img/bcg.jpg);
+  background-size: cover;
 }
 
 .feather {

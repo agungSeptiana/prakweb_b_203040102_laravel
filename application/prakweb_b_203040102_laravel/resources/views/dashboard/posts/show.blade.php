@@ -2,7 +2,7 @@
     @section('container')
     <div class="container">
         <div class="row my-3">
-            <div class="col-md-8">
+            <div class="col-md-8 bg-light">
                 
                 <h1 class="mb-3">{{ $post->title }}</h1>
 
