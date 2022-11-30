@@ -1,6 +1,6 @@
 @extends('layouts.main')
     @section('container')
-        <h1 class=" mt-5 mb-3 text-light text-center">{{ $title }}</h1>
+        <h1 class="mt-5 mb-3 text-light text-center">{{ $title }}</h1>
 
         <div class="row justify-content-center">
             <div class="col-md-6">

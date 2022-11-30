@@ -16,10 +16,10 @@
             <table class="table table-striped table-sm bg-light rounded-20">
               <thead>
                 <tr>
-                  <th scope="col" class="text-light">No</th>
-                  <th scope="col" class="text-light">Title</th>
-                  <th scope="col" class="text-light">Category</th>
-                  <th scope="col" class="text-light">Action</th>
+                  <th scope="col" class="text-dark">No</th>
+                  <th scope="col" class="text-dark">Title</th>
+                  <th scope="col" class="text-dark">Category</th>
+                  <th scope="col" class="text-dark">Action</th>
                 </tr>
               </thead>
               <tbody>
