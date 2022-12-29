@@ -16,6 +16,8 @@ class DashboardPostController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
+
+    //  skdjfhsdksjhfsjks
     public function index()
     {
         return view('dashboard.posts.index', [
