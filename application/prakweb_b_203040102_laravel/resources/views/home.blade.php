@@ -1,6 +1,7 @@
 @extends('layouts.main')    
 
     @section('container')
+    {{-- home --}}
 
     <div class="container mb-5">
         <div class="row">
